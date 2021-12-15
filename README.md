@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=RenanPereira7" alt="RenanPereira7" /></p>
 
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Renan</h1>
