@@ -8,6 +8,6 @@ Atualmente estou estudando Java e Spring Boot.</p>
 
 ## ⚡ GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanPereira7)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RenanPereira7&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanPereira7&hide=TeX&layout=compact)
 
