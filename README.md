@@ -1,6 +1,3 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=RenanPereira7" alt="RenanPereira7" /></p>
-
-
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Renan</h1>
 <p align = "justify">Olá, meu nome é Renan Pereira da Conceição, tenho 20 anos, atualmente curso o 4° semestre de Ciência da Computação na UNIP de Araraquara.
 Atualmente estou estudando Java e Spring Boot..</p>
